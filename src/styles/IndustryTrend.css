@@ -1,0 +1,40 @@
+.indust_img{
+    
+    height: 400px;
+    background-image: url('../assests/images/vision2.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.indust_trends_div{
+    padding-top: 25px;
+    margin-left: 460px;
+    position: absolute;
+}
+.indust_trends{
+    height: 350px;
+    background-color: #272727;
+}
+
+.trend_head{
+    font-weight: 600;
+    font-size: 50px;
+    color: #FFFFFF; 
+    margin-left: 80px;
+
+}
+
+.industry_logo{
+     height: 80px;
+    margin-left: 130px;
+    padding-top: 30px;
+
+}
+
+.trend_para{
+font-size: 14px;
+margin-left: 18px;
+color: #FFFFFF;
+
+}

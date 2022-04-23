@@ -1,0 +1,43 @@
+.map_div{
+  height: 450px;
+  background-image: url('../assests/images/mapimg.png');
+  background-size: cover;
+  object-fit: cover;
+  position: relative;
+}
+
+.location_img1{
+  background-image: url('../assests/images/locationimg1.png');
+  background-size: cover;
+  object-fit: cover;
+  height: 30px;
+   width: 22px;
+  margin-left: 590px;
+  position: absolute;
+  top: 360px;
+  left: 350px;
+ } 
+
+ .location_img2{
+  background-image: url('../assests/images/locationimg2.png');
+  background-size: cover;
+  object-fit: cover;
+  height: 30px;
+   width: 22px;
+  margin-left: 590px;
+  position: absolute;
+  top: 110px;
+  left: 350px;
+ } 
+
+ .location_img3{
+  background-image: url('../assests/images/location3.png');
+  background-size: cover;
+  object-fit: cover;
+  height: 30px;
+   width: 22px;
+  margin-left: 590px;
+  position: absolute;
+  top: 180px;
+  left: 150px;
+ } 

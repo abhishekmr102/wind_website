@@ -1,0 +1,68 @@
+.form_main_div{
+    /* width: 100%; */
+    height: 650px;
+    margin-top: 80px;
+    background-image: url('../assests/images/formimg.png');
+    background-size: cover;
+    object-fit: cover;
+    
+}
+
+.form_div{
+    padding-top: 50px;
+    height: 500px;
+}
+
+.form_box{
+    height: 470px;
+    background: #F3F3F3;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+}
+
+.get_in_contact{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 37px;
+    text-align: justify;
+    color: #000000;
+    padding-top: 10px;
+}
+
+.we_will_get{
+  font-weight: 500;
+  font-size: 13px;
+  text-align: justify;
+  color: #000000;
+}
+
+.f_name_l_name{
+    height: 50px;
+    background: #FFFFFF;
+    font-size: 17px;
+}
+
+.email_box{
+    height: 50px;
+  background: #FFFFFF;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  box-sizing: border-box;
+}
+
+.messege{
+  height: 65px;
+  background: #FFFFFF;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  box-sizing: border-box;
+}
+.submit{
+    height: 40px;
+   background: #7AA102;
+   border-radius: 10px; 
+   font-weight: 600;
+    font-size: 15px;
+    line-height: 30px;
+   text-align: justify;
+   color: #FFFFFF;
+ 
+}

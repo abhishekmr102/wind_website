@@ -1,0 +1,22 @@
+.client_row_div{
+    height: 550px;
+    background-color: rgb(236, 234, 231);
+}
+
+.client_img{
+    width: 350px;
+    height: 380px;
+    background-image: url('../assests/images/ourlatestimg03.png');
+    background-size: cover;
+    object-fit: cover;
+    margin-top: 60px;
+
+}
+
+.client_testimonial_right_div{
+    width: 350px;
+    height: 380px;
+    background-color: #272727;
+    margin-top: 120px;
+    
+}

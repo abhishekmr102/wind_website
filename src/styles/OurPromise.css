@@ -1,0 +1,46 @@
+.our_promise_img1{
+    background-image: url('../assests/images/ourpromisimg1.png');
+    background-size: cover;
+    object-fit: cover;
+    height: 330px;
+}
+.our_promise_img2{
+    background-image: url('../assests/images/ourpromiseimg2.png');
+    background-size: cover;
+    object-fit: cover;
+    height: 330px;
+}
+
+.our_promise_img3{
+    background-image: url('../assests/images/ourpromisimg3.png');
+    background-size: cover;
+    object-fit: cover;
+    height: 330px;
+}
+
+.our_promise_head{
+font-weight: 400;
+font-size: 60px;
+line-height: 120px;
+margin-left: 160px;
+color: #000000;
+}
+
+.our_promise_para{
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000;
+    text-align: justify;
+}
+
+.our_promise_btn{
+    width: 130px;
+    height: 36px; 
+    line-height: 30px;
+    background-color:#7AA102;
+    font-weight: 500;
+    font-size: 19px;
+    color: #FFFFFF;
+    border-radius: 10px;
+  /* margin-left: 300px; */
+}

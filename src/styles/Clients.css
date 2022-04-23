@@ -1,0 +1,32 @@
+
+.client_img_div{
+   width: 100%;
+   height: 400px;
+   background-image: url('../assests/images/clientimg.png');
+   background-size: cover;
+   object-fit: cover;
+}
+
+.clients{
+font-weight: 600;
+font-size: 40px;
+line-height: 122px;
+color: #FFFFFF;
+margin-left: 30px;
+
+}
+
+.client_para{
+ width: 490px;
+font-size: 15px;
+line-height: 23px;
+text-align: justify;
+color: #FFFFFF;
+margin-left: 30px;
+}
+
+.client_hr{
+    width: 340px;
+    padding: 0.1rem;
+    color: #f3f3f3;
+}

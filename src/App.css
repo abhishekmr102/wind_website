@@ -36,3 +36,235 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* ------------ */
+
+/* @media only screen and (max-width: 765px) {
+  .more_services{
+    margin-left: 166px;
+    background-color: red;
+  }
+} */
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 765px) {
+  .logo_krg {
+    width: 110px !important;
+    height: 44px !important;
+  }
+  .proven_renewable_engry,
+  .looking_to_join {
+    margin-left: 0 !important;
+    font-size: 26px !important;
+    width: 300px !important;
+    line-height: 30px !important;
+    word-spacing: 0;
+  }
+  .looking_to_join {
+    line-height: 30px !important;
+    top: 120px !important;
+    margin-top: 32px !important;
+    font-size: 20px !important;
+    /* width: 280px; */
+  }
+  .click_here {
+    margin-left: 0 !important;
+  }
+  .img_wind {
+    width: 285px !important;
+    left: 29px !important;
+  }
+  .img {
+    background-size: contain !important;
+    margin-top: 112px !important;
+  }
+  .more_services{
+    margin-left: 79px !important;
+  }
+  .powering_p_tag {
+    font-size: 11px !important;
+  }
+  .we_have_h_tag {
+    font-size: 16px!important;
+    line-height: 30px !important;
+  }
+
+  .our_vision_heading{
+    font-size: 36px !important;
+  }
+
+  .our_vision_para {
+    font-size: 13px !important;
+  }
+  .our_vision_btn{
+    width: 127px !important;
+    height: 35px !important;
+    font-size: 17px !important;
+    margin-left: 116px !important;
+  }
+
+  .our_vision_small_img{
+    margin-top: 22px !important;
+  }
+
+  .our_promise_img1{
+    height: 568px !important;
+  }
+  .our_promise_img2{
+    height: 730px !important;
+  }
+  .our_promise_img3{
+    height: 740px !important;
+  }
+
+  .our_promise_head{
+    font-size: 49px !important;
+    line-height: 71px !important;
+    margin-left: 42px !important;
+  }
+  .our_promise_para{
+    font-size: 14px !important;
+  }
+  .our_promise_btn {
+    width: 124px !important;
+    height: 34px !important;
+    font-size: 16px !important;
+  }
+  .our_value_row_box{
+    margin-left: 105px !important;
+  }
+  .our_value_logo_div{
+    margin-top: 25px !important;
+  }
+  .clients{
+    font-size: 31px !important;
+    line-height: 117px !important;
+    margin-left: 38px !important;
+  }
+ .client_para{
+    width: 299px !important;
+    font-size: 13px !important;
+    line-height: 20px !important;
+    margin-left: 15px !important;
+  }
+
+ .our_latest_img3{
+  display: none !important;
+  
+  }
+ .our_latest_img4{
+    display: none !important;
+    
+    }
+ .our_latest_img5{
+      display: none !important;
+      
+      }
+ .our_latest_img2{
+        display: none !important;
+        
+     }
+
+     .indust_trends{
+      height: 320px !important;
+    margin-left: -441px !important;
+    margin-top: 80px !important;
+    width: 321px !important;
+     }
+
+     .industry_logo {
+      height: 62px !important;
+      margin-left: 17px !important;
+      padding-top: 30px !important;
+  }
+
+  .trend_head {
+    font-weight: 600;
+    font-size: 18px !important;
+    margin-left: 3px !important;
+    margin-top: 33px !important;
+}
+
+.trend_para {
+  font-size: 13px !important;
+  margin-left: 35px !important;
+}
+
+ .read_our_row_box{
+  padding-top: 400px !important;    
+  }
+
+  .our_global{
+    margin-top: 251px !important;
+  }
+
+  .location_img2 {
+    left: 255px !important;
+  }
+  .location_img1{
+    top: 218px !important;
+    left: 260px !important;
+  }
+
+  .location_img3{
+    top: 86px !important;
+    left: 130px !important;
+  }
+
+  /* ---map section */
+  .map_div{
+    display:none !important;
+  }
+
+  .box_1,.box_2,.box_3,.box_4,.box_5{
+    display:none !important;
+  }
+
+  .line_div{
+    display:none !important;
+  }
+
+  .have_questions {
+    display:none !important;
+  }
+
+  .row_footer {
+    height: 800px !important;
+  }
+  .line {
+    margin-top: 27px !important;
+  }
+  .krg_logo_footer {
+    margin-top: 10px !important;
+  }
+  .head_office {
+    font-size: 28px !important;
+    margin-top: 23px !important;
+  }
+  .email_footer{
+    font-size: 17px !important;
+    margin-top: 27px !important;
+    margin-left: 73px !important;
+  }
+  .Iso_para{
+    margin-top: 8px !important;
+  }
+  .footer_line_hr {
+    width: 300px !important;
+    margin-left: 37px !important;
+  }
+  .footer_kinetic_c {
+    font-size: 14px !important;
+  }
+}
+
+

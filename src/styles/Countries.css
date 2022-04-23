@@ -1,0 +1,72 @@
+
+.box_1{
+    width: 19px;
+    height: 19px;
+    background: linear-gradient(90deg, #FF636E 0%, #FF406F 99.82%);
+    border-radius: 50%;
+    margin-left: 120px;
+}
+
+.box_2{
+    width: 19px;
+    height: 19px; 
+background: linear-gradient(90deg, #FFC853 0.15%, #FFBB54 40.84%, #FFA157 99.42%);
+    border-radius: 50%;
+    margin-left: 120px;
+}
+
+.box_3{
+    width: 19px;
+    height: 19px;
+    background: linear-gradient(90deg, #7497F3 0.3%, #856EF4 100.12%);
+    border-radius: 50%;
+    margin-left: 120px;
+}
+
+.box_4{
+    width: 19px;
+    height: 19px;
+    background: linear-gradient(90deg, #E246F0 -0.06%, #8C46F0 99.76%);
+    border-radius: 50%;
+    margin-left: 120px;
+}
+
+.box_5{
+    width: 19px;
+    height: 19px;
+    background: linear-gradient(90deg, #8CC6F0 0.09%, #8C91F0 99.91%);
+    border-radius: 50%;
+    margin-left: 120px;
+}
+
+.main-line{
+  position: relative;
+}
+.line_div{
+    position: absolute;
+    top: 9px;
+    left: 140px;
+    width: 24%;
+    height: 2px;
+    z-index: -10;
+    background-color: rgb(202, 195, 195);
+    box-shadow: 1px 2px 3px rgb(20, 19, 19);
+}
+.line_div2{
+    left: 289px;
+}
+.line_div3{
+    left:480px
+}
+.line_div4{
+    left:700px
+
+}
+
+.countries_name{
+font-weight: 400;
+font-size: 20px;
+line-height: 73px;
+text-align: center;
+color: #000000;
+}

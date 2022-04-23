@@ -1,0 +1,6 @@
+.our_global{
+    height: 150px;
+   background-image: url('../assests/ourglobal.png');
+   background-size: cover;
+   object-fit: cover;
+}
